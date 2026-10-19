@@ -1,0 +1,11 @@
+{
+  "name": "nitrosend",
+  "version": "0.1.0",
+  "description": "Draft email campaigns and flows, manage audiences, send tests and inspect results in Nitrosend.",
+  "mcpServers": {
+    "nitrosend": {
+      "httpUrl": "https://api.nitrosend.com/mcp",
+      "description": "OAuth connection to the selected Nitrosend account and brand"
+    }
+  }
+}
